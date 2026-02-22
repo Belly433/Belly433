@@ -4,7 +4,7 @@ I'm a Software Engineering student at Final International University, North Cypr
 Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, HTML, CSS
+- **Languages:** C#, JavaScript, HTML, CSS
 - **Frameworks:** ASP.NET Core (Razor Pages), Unity
 - **Tools:** Git, GitHub, Visual Studio
 

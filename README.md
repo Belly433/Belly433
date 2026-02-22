@@ -5,12 +5,13 @@ Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
 - **Languages:** C#, Python, HTML, CSS
-- **Frameworks:** Unity
-- **Tools:** GitHub
+- **Frameworks:** ASP.NET Core (Razor Pages), Unity
+- **Tools:** Git, GitHub, Visual Studio
 
 ## 📚 Currently Learning
 - Backend Development & DevOps (SFWE477)
-- [anything else you are actively studying]
+- Mobile Apps Development
+- Digital Image Processing
 
 ## 🔗 Connect With Me
 - [LinkedIn](your-linkedin-url)

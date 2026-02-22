@@ -19,5 +19,5 @@ Currently building backend systems with Python and FastAPI.
 - 📧 bellydynella.sabushi@final.edu.tr
 
 ## 📌 Featured Projects
-- [Project Name](repo-link) — one sentence description
+- [E-Business Society](https://github.com/lucngoy/E-Business-Society) — A team-developed web platform connecting local businesses with customers to provide and manage local services.
 - [Project Name](repo-link) — one sentence description

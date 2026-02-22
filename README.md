@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Belly👋
 
-<!--
-**Belly433/Belly433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Final International University, North Cyprus.
+Currently building backend systems with Python and FastAPI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C#, Python, HTML, CSS
+- **Frameworks:** Unity
+- **Tools:** GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- [anything else you are actively studying]
+
+## 🔗 Connect With Me
+- [LinkedIn](your-linkedin-url)
+- [LeetCode](your-leetcode-url)
+- 📧 bellydynella.sabushi@final.edu.tr
+
+## 📌 Featured Projects
+- [Project Name](repo-link) — one sentence description
+- [Project Name](repo-link) — one sentence description

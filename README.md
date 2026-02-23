@@ -20,4 +20,4 @@ Currently building backend systems with Python and FastAPI.
 
 ## 📌 Featured Projects
 - [E-Business Society](https://github.com/lucngoy/E-Business-Society) — A team-developed web platform connecting local businesses with customers to provide and manage local services.I was responsible for database design, structure, and data handling.
-- [Unity Game Project](https://github.com/timurfinal/finalgames) — A Unity-based game where I focused on design, gameplay setup, and logic implementation using Unity’s built-in tools.
+- [WorldScramble Game](https://github.com/timurfinal/finalgames) — A Unity-based game where I focused on design, gameplay setup, and logic implementation using Unity’s built-in tools.

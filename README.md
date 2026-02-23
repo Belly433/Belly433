@@ -15,7 +15,7 @@ Currently building backend systems with Python and FastAPI.
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/belly-dynella-sabushimike-351bb13b2/)
-- [LeetCode](your-leetcode-url)
+- [LeetCode](https://leetcode.com/u/Belly43/)
 - 📧 bellydynella.sabushi@final.edu.tr
 
 ## 📌 Featured Projects

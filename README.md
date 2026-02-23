@@ -14,7 +14,7 @@ Currently building backend systems with Python and FastAPI.
 - Digital Image Processing
 
 ## 🔗 Connect With Me
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/belly-dynella-sabushimike-351bb13b2/)
 - [LeetCode](your-leetcode-url)
 - 📧 bellydynella.sabushi@final.edu.tr
 

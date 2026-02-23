@@ -1,11 +1,11 @@
-# Hi, I'm Belly👋
+# Hi, I'm Belly Dynella👋
 
 I'm a Software Engineering student at Final International University, North Cyprus.
 Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
 - **Languages:** C#, JavaScript, HTML, CSS
-- **Frameworks:** ASP.NET Core (Razor Pages), Unity
+- **Frameworks:** ASP.NET Core (Razor Pages), Unity, Windows Forms (.NET)
 - **Tools:** Git, GitHub, Visual Studio
 
 ## 📚 Currently Learning

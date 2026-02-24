@@ -1,4 +1,4 @@
-# Hi, I'm Belly Dynella👋
+# Hi, I'm Belly Dynella SABUSHIMIKE👋
 
 I'm a Software Engineering student at Final International University, North Cyprus.
 Currently building backend systems with Python and FastAPI.
